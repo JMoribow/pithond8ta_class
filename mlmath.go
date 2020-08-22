@@ -2,4 +2,5 @@ package mlmath
 
 import (
 	"errors"
-	"mat
+	"math"
+)
