@@ -5,4 +5,4 @@ import (
 	"math"
 )
 
-ty
+type K
