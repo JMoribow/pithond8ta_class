@@ -5,4 +5,4 @@ import (
 	"math"
 )
 
-type K
+type Klab
