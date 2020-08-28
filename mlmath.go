@@ -5,4 +5,4 @@ import (
 	"math"
 )
 
-type Klabel struc
+type Klabel struct 
