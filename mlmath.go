@@ -6,4 +6,4 @@ import (
 )
 
 type Klabel struct {
-	Values [
+	Values []f
