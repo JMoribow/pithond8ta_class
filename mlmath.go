@@ -7,4 +7,4 @@ import (
 
 type Klabel struct {
 	Values []float64
-	Label  str
+	Label  string
