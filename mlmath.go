@@ -10,4 +10,4 @@ type Klabel struct {
 	Label  string
 }
 
-// Bubblesort f
+// Bubblesort for K
