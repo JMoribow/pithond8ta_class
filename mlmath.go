@@ -10,4 +10,4 @@ type Klabel struct {
 	Label  string
 }
 
-// Bubblesort for Klabel and repetitive sor
+// Bubblesort for Klabel and repetitive sort
