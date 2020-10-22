@@ -14,3 +14,5 @@ type Klabel struct {
 func KlabelBsort(a []Klabel) []Klabel {
 	a_len := len(a)
 	a_temp := make([]Klabel, a_len)
+
+	co
