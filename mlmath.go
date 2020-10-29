@@ -16,3 +16,5 @@ func KlabelBsort(a []Klabel) []Klabel {
 	a_temp := make([]Klabel, a_len)
 
 	copy(a_temp, a)
+
+	for
