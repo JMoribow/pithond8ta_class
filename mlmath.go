@@ -17,4 +17,4 @@ func KlabelBsort(a []Klabel) []Klabel {
 
 	copy(a_temp, a)
 
-	for i, _ := range
+	for i, _ := range a {
