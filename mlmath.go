@@ -18,4 +18,4 @@ func KlabelBsort(a []Klabel) []Klabel {
 	copy(a_temp, a)
 
 	for i, _ := range a {
-		if i+1 != a_l
+		if i+1 != a_len 
