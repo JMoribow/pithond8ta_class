@@ -19,4 +19,4 @@ func KlabelBsort(a []Klabel) []Klabel {
 
 	for i, _ := range a {
 		if i+1 != a_len {
-			if 
+			if a[i+1].Val
