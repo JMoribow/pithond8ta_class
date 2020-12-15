@@ -22,4 +22,4 @@ func KlabelBsort(a []Klabel) []Klabel {
 			if a[i+1].Values[0] < a[i].Values[0] {
 				a[i+1].Values[0], a[i].Values[0] = a[i].Values[0], a[i+1].Values[0]
 			}
-		
+			co
