@@ -24,4 +24,4 @@ func KlabelBsort(a []Klabel) []Klabel {
 			}
 			copy(a_temp, a)
 
-			for i,
+			for i, _
