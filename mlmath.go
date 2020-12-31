@@ -25,4 +25,4 @@ func KlabelBsort(a []Klabel) []Klabel {
 			copy(a_temp, a)
 
 			for i, _ := range a_temp {
-				if a_temp[
+				if a_temp[i].Va
