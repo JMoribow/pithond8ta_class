@@ -27,4 +27,4 @@ func KlabelBsort(a []Klabel) []Klabel {
 			for i, _ := range a_temp {
 				if a_temp[i].Values[0] != a[i].Values[0] {
 					KlabelBsort(a)
-				
+				}
