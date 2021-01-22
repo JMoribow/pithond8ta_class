@@ -29,4 +29,5 @@ func KlabelBsort(a []Klabel) []Klabel {
 					KlabelBsort(a)
 				}
 			}
+		}
 	
