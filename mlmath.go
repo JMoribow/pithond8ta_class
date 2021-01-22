@@ -28,3 +28,5 @@ func KlabelBsort(a []Klabel) []Klabel {
 				if a_temp[i].Values[0] != a[i].Values[0] {
 					KlabelBsort(a)
 				}
+			}
+	
