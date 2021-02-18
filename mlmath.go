@@ -35,4 +35,4 @@ func KlabelBsort(a []Klabel) []Klabel {
 	return a
 }
 
-func Check_length(p [
+func Check_length(p []flo
