@@ -36,4 +36,6 @@ func KlabelBsort(a []Klabel) []Klabel {
 }
 
 func Check_length(p []float64, q []float64) error {
-	var err error = ni
+	var err error = nil
+
+	if l
