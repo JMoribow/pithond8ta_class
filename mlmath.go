@@ -39,4 +39,4 @@ func Check_length(p []float64, q []float64) error {
 	var err error = nil
 
 	if len(p) != len(q) {
-		err = errors.New("mymath: Input slices have not 
+		err = errors.New("mymath: Input slices have not sa
