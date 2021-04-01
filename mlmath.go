@@ -41,3 +41,5 @@ func Check_length(p []float64, q []float64) error {
 	if len(p) != len(q) {
 		err = errors.New("mymath: Input slices have not same length")
 	}
+
+	
