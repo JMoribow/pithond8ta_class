@@ -45,4 +45,4 @@ func Check_length(p []float64, q []float64) error {
 	return err
 }
 
-//
+// Eucl
