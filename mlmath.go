@@ -46,4 +46,4 @@ func Check_length(p []float64, q []float64) error {
 }
 
 // Euclidian distance, prone to runaways
-func Euclide(p []float64, q
+func Euclide(p []float64, q []fl
