@@ -50,4 +50,4 @@ func Euclide(p []float64, q []float64) float64 {
 
 	res := 0.0
 
-	for i, val 
+	for i, val := ran
