@@ -53,4 +53,4 @@ func Euclide(p []float64, q []float64) float64 {
 	for i, val := range p {
 		res += (val - q[i]) * (val - q[i])
 	}
-	re
+	res 
