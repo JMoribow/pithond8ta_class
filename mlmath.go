@@ -56,3 +56,6 @@ func Euclide(p []float64, q []float64) float64 {
 	res = math.Sqrt(res)
 
 	return res
+}
+
+//
