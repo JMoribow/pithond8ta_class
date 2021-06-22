@@ -58,4 +58,4 @@ func Euclide(p []float64, q []float64) float64 {
 	return res
 }
 
-//
+//Man
