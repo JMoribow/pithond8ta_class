@@ -59,4 +59,4 @@ func Euclide(p []float64, q []float64) float64 {
 }
 
 //Manhatten metric
-func Manhatten(p []float64, q []flo
+func Manhatten(p []float64, q []float6
