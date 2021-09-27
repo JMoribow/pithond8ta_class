@@ -61,4 +61,4 @@ func Euclide(p []float64, q []float64) float64 {
 //Manhatten metric
 func Manhatten(p []float64, q []float64) float64 {
 
-	res :=
+	res := 0.0
