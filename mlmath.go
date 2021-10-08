@@ -64,4 +64,4 @@ func Manhatten(p []float64, q []float64) float64 {
 	res := 0.0
 
 	for i, val := range p {
-		
+		re
