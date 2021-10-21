@@ -65,4 +65,5 @@ func Manhatten(p []float64, q []float64) float64 {
 
 	for i, val := range p {
 		res += math.Abs(val - q[i])
-	
+	}
+
