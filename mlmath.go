@@ -71,4 +71,4 @@ func Manhatten(p []float64, q []float64) float64 {
 }
 
 //kNN
-//calculate distance and store results in sl
+//calculate distance and store results in slice 
