@@ -72,4 +72,5 @@ func Manhatten(p []float64, q []float64) float64 {
 
 //kNN
 //calculate distance and store results in slice of size k
-//if new value is smaller than biggest value in slice, rep
+//if new value is smaller than biggest value in slice, replace
+fun
