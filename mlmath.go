@@ -74,4 +74,4 @@ func Manhatten(p []float64, q []float64) float64 {
 //calculate distance and store results in slice of size k
 //if new value is smaller than biggest value in slice, replace
 func KNN(in []float64, tdata []Klabel, k int) []Klabel {
-	k_res := m
+	k_res := make([
