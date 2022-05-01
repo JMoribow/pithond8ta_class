@@ -75,4 +75,4 @@ func Manhatten(p []float64, q []float64) float64 {
 //if new value is smaller than biggest value in slice, replace
 func KNN(in []float64, tdata []Klabel, k int) []Klabel {
 	k_res := make([]Klabel, 0)
-	var t
+	var temp_r
