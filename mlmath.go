@@ -76,3 +76,5 @@ func Manhatten(p []float64, q []float64) float64 {
 func KNN(in []float64, tdata []Klabel, k int) []Klabel {
 	k_res := make([]Klabel, 0)
 	var temp_res Klabel
+
+	fo
