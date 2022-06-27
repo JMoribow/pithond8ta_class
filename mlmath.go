@@ -78,4 +78,4 @@ func KNN(in []float64, tdata []Klabel, k int) []Klabel {
 	var temp_res Klabel
 
 	for _, tvalues := range tdata {
-		
+		temp_v
