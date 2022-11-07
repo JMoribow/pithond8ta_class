@@ -79,4 +79,4 @@ func KNN(in []float64, tdata []Klabel, k int) []Klabel {
 
 	for _, tvalues := range tdata {
 		temp_val := Manhatten(in, tvalues.Values)
-		temp_res.Values = []float6
+		temp_res.Values = []float64{te
