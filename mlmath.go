@@ -81,4 +81,4 @@ func KNN(in []float64, tdata []Klabel, k int) []Klabel {
 		temp_val := Manhatten(in, tvalues.Values)
 		temp_res.Values = []float64{temp_val}
 		temp_res.Label = tvalues.Label
-		if len(k_re
+		if len(k_res) 
