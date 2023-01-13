@@ -84,4 +84,4 @@ func KNN(in []float64, tdata []Klabel, k int) []Klabel {
 		if len(k_res) < k {
 			k_res = append(k_res, temp_res)
 		} else {
-			
+			k_res
