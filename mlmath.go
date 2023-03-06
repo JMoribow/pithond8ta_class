@@ -85,4 +85,4 @@ func KNN(in []float64, tdata []Klabel, k int) []Klabel {
 			k_res = append(k_res, temp_res)
 		} else {
 			k_res := KlabelBsort(k_res)
-			if temp_res.Values[0] < k
+			if temp_res.Values[0] < k_res[
