@@ -88,4 +88,5 @@ func KNN(in []float64, tdata []Klabel, k int) []Klabel {
 			if temp_res.Values[0] < k_res[2].Values[0] {
 				k_res[2] = temp_res
 			}
-	
+		}
+	}
