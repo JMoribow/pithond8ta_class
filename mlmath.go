@@ -91,4 +91,5 @@ func KNN(in []float64, tdata []Klabel, k int) []Klabel {
 		}
 	}
 
-	return k_
+	return k_res
+}
